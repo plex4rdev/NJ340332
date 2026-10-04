@@ -1,0 +1,5 @@
+{
+  "keyId": "staff-1",
+  "payload": "{\"version\":1,\"issuedAt\":\"2026-10-04T18:36:27.270Z\",\"bypassesEnabled\":true,\"staff\":[{\"uuid\":\"2d585552-14d4-45ab-9297-4927d58295e7\",\"name\":\"Plex4r\"}]}",
+  "signature": "Xo7/4AUGVcyu/0ZbqsknzP9ZzDHj7uLsXb85fGG0BX2ou0XSotJO6nLy/jcpxr2tLR3AU51mkzCq/Q5aB8FeAA=="
+}
